@@ -1,2 +1,3 @@
-# first
-This is my first repository
+# first project
+This is my first git repository
+author pabitra kumar
