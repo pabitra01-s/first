@@ -1,3 +1,4 @@
 # first project
-This is my first git repository
-author pabitra kumar
+This is my first git repository.
+<br>
+author. pabitra kumar
